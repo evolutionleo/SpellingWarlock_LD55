@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"StructInherit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StructInherit",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
